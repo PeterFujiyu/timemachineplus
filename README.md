@@ -7,3 +7,6 @@
 
 软件的介绍请参考我B站视频：<br>
 https://www.bilibili.com/video/BV1Ls4y1c7Wd/
+
+Ubuntu安装很简单：
+(bash)sh install_ubuntu.sh
