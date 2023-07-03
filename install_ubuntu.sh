@@ -15,4 +15,4 @@ wget https://github.com/epcdiy/timemachineplus/raw/V1.0/release/log4j-1.2.17.jar
 wget https://github.com/epcdiy/timemachineplus/raw/V1.0/release/mysql-connector-java-6.0.6.jar
 
 # 运行项目
-java -jar timemachineplus-1.0-SNAPSHOT.jar
+java -jar ./release/timemachineplus-1.0-SNAPSHOT.jar
